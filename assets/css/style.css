@@ -103,7 +103,7 @@ hr {
   display: flex;
   justify-content: space-between;
 }
-.wrapper-web .container .profile-wrapper .profile .profile-body .section-box .section-content .project-box .project-box-item .project-title strong {
+.wrapper-web .container .profile-wrapper .profile .profile-body .section-box .section-content .project-box .project-box-item .project-title a {
   text-transform: uppercase;
 }
 .wrapper-web .container .profile-wrapper .profile .profile-body .section-box .section-content .project-box .project-box-item .project-content .project-content-item {
